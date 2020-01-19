@@ -1,0 +1,1 @@
+{"version":3,"file":"di.config.js","sourceRoot":"","sources":["../../../src/features/command-palette/di.config.ts"],"names":[],"mappings":";;AAAA;;;;;;;;;;;;;;kFAckF;AAClF,4CAA0C;AAE1C,uCAA4C;AAC5C,mCAAoC;AAEpC,qFAAuF;AAEvF,IAAM,wBAAwB,GAAG,IAAI,2BAAe,CAAC,UAAC,IAAI;IACtD,IAAI,CAAC,WAAK,CAAC,6BAA6B,CAAC,CAAC,EAAE,CAAC,oEAAkC,CAAC,CAAC;AACrF,CAAC,CAAC,CAAC;AAEH,kBAAe,wBAAwB,CAAC"}

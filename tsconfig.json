@@ -1,12 +1,24 @@
 {
   "extends": "./configs/base.tsconfig",
   "compilerOptions": {
-    "rootDir": "src",
-    "outDir": "lib",
-    "reactNamespace": "JSX",
-    "baseUrl": "."
+    "skipLibCheck": false,
+    "baseUrl": ".",
+    "paths": {
+      "@eclipse-glsp/client": [
+        "glsp-client/a/src/*"
+      ],
+      "@eclipse-glsp-examples/workflow-sprotty": [
+        "examples/workflow-sprotty/src/*"
+      ]
+    },
+    "plugins": [
+      {
+        "name": "tslint-language-service"
+      }
+    ]
   },
   "include": [
-    "src"
+    "glsp-client",
+    "example/*"
   ]
 }

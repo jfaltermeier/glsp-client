@@ -1,0 +1,1 @@
+{"version":3,"file":"di.config.js","sourceRoot":"","sources":["../../../src/features/context-menu/di.config.ts"],"names":[],"mappings":";;AAAA;;;;;;;;;;;;;;kFAckF;AAClF,uCAA4C;AAC5C,mCAAoC;AAEpC,+EAA+E;AAE/E,IAAM,qBAAqB,GAAG,IAAI,2BAAe,CAAC,UAAA,IAAI;IAClD,IAAI,CAAC,WAAK,CAAC,wBAAwB,CAAC,CAAC,EAAE,CAAC,4DAA6B,CAAC,CAAC;AAC3E,CAAC,CAAC,CAAC;AAEH,kBAAe,qBAAqB,CAAC"}

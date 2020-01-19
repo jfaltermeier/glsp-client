@@ -1,0 +1,1 @@
+{"version":3,"file":"glsp-server-status.d.ts","sourceRoot":"","sources":["../../src/model-source/glsp-server-status.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;kFAckF;AAClF,OAAO,EAAE,kBAAkB,EAAE,MAAM,SAAS,CAAC;AAE7C,qBAAa,sBAAuB,SAAQ,kBAAkB;IAC1D,OAAO,EAAE,MAAM,CAAC;CACnB;AAED,wBAAgB,wBAAwB,CAAC,kBAAkB,EAAE,kBAAkB,GAAG,kBAAkB,IAAI,sBAAsB,CAE7H"}

@@ -29,6 +29,19 @@
       "problemMatcher": [
         "$tsc-watch"
       ]
+    },
+    {
+      "label": "Start Workflow standalone example",
+      "type": "shell",
+      "group": "test",
+      "command": "google-chrome ./examples/workflow-standalone/app/diagram.html",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": [
+        "$tsc-watch"
+      ]
     }
   ]
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"model.js","sourceRoot":"","sources":["../../../src/features/undo-redo/model.ts"],"names":[],"mappings":";;AAiBA;IAAA;QAEa,SAAI,GAAG,cAAc,CAAC,IAAI,CAAC;IACxC,CAAC;IAFmB,mBAAI,GAAG,UAAU,CAAC;IAEtC,qBAAC;CAAA,AAHD,IAGC;AAHY,wCAAc;AAK3B;IAAA;QAEa,SAAI,GAAG,cAAc,CAAC,IAAI,CAAC;IACxC,CAAC;IAFmB,mBAAI,GAAG,UAAU,CAAC;IAEtC,qBAAC;CAAA,AAHD,IAGC;AAHY,wCAAc"}
